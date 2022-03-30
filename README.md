@@ -9,3 +9,5 @@ ArcoTangente:
 Logaritmo:
 
 ![](https://github.com/Haatom/Parcial-2-AREP/blob/main/img/log.png)
+
+Ahora se ejecuta el servicio desde AWS EC2
